@@ -238,3 +238,11 @@ The trading engine produces two output files:
   ```
 
 These files are written to the `backend/` directory after running `npm start`.
+
+![project_structure](https://github.com/user-attachments/assets/8983e5a6-0899-483f-8d5a-b169ff3dbc8f)
+
+![orders_processing](https://github.com/user-attachments/assets/d9fa6f7c-76fb-4d57-965e-2fb9c8916d71)
+
+![tests](https://github.com/user-attachments/assets/583d103b-be57-4fa0-bff2-eeec54f142f8)
+
+
